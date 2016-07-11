@@ -64,7 +64,6 @@ add_service_files(FILES
    Control.srv
    GetMapContents.srv
    GetTransform.srv
-   MoveTask.srv
    SetMap.srv
    SetPose.srv
 )

@@ -1,3 +1,3 @@
 Header header
-rnsslam/MapInfo info
-rnsslam/MapPage[] pages	# Array of pages, not sorted at all
+rns_msgs/MapInfo info
+rns_msgs/MapPage[] pages	# Array of pages, not sorted at all

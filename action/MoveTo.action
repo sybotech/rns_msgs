@@ -28,4 +28,4 @@ int32 moverState
 # Message for status update
 string msg
 # Current path
-rnsmove/AnnotatedPath path
+rns_msgs/AnnotatedPath path

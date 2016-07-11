@@ -1,5 +1,5 @@
 # Message contains annotation update
-rnsmove/Annotation[] annotations
+rns_msgs/Annotation[] annotations
 
 int32 ActionAdd = 1 #;    /// Add new annotations. If they are already exist - they will be modified on server
 int32 ActionSet = 2 #;    /// Override whole annotation list

@@ -1,5 +1,5 @@
 # Contains map contents
-rnsslam/MapContents data
+rns_msgs/MapContents data
 --- 
 # Resulting mapper state
 int32 state
