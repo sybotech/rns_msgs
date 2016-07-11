@@ -1,0 +1,6 @@
+# Contains map contents
+rnsslam/MapContents data
+--- 
+# Resulting mapper state
+int32 state
+nav_msgs/OccupancyGrid map
