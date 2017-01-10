@@ -50,11 +50,14 @@ add_message_files(FILES
    Waypoint.msg
    Annotation.msg
    AnnotationUpdate.msg
+   BatteryState.msg
    MapCell.msg
    MapContents.msg
    MapInfo.msg
    MapPage.msg
    ScanPose.msg
+   RawIMU.msg
+   WifiState.msg
 )
 
 ## Generate services in the 'srv' folder
