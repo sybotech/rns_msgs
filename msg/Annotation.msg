@@ -16,6 +16,10 @@ geometry_msgs/Polygon area
 float32 size
 # Annotation name
 string name
+# Attached tags
+string[] tags
+# Annotation origin, i.e editor name
+string origin
 # optional field
 string description
 # If this area is restricted to move in
