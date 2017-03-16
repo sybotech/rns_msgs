@@ -12,7 +12,9 @@ int32 type # one of types described in constants
 int64 revision
 
 geometry_msgs/Polygon area
-
+# Central pose
+geometry_msgs/PoseWithCovarianceStamped pose
+# Annotation size
 float32 size
 # Annotation name
 string name
