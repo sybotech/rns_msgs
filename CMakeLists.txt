@@ -58,6 +58,7 @@ add_message_files(FILES
    ScanPose.msg
    RawIMU.msg
    WifiState.msg
+   JointConfig.msg
 )
 
 ## Generate services in the 'srv' folder
