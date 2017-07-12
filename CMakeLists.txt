@@ -59,6 +59,7 @@ add_message_files(FILES
    RawIMU.msg
    WifiState.msg
    JointConfig.msg
+   JointCmd.msg
 )
 
 ## Generate services in the 'srv' folder
@@ -70,6 +71,7 @@ add_service_files(FILES
    GetTransform.srv
    SetMap.srv
    SetPose.srv
+   SetJointConfig.srv
 )
 
 ## Generate actions in the 'action' folder
