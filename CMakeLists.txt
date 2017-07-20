@@ -60,6 +60,7 @@ add_message_files(FILES
    WifiState.msg
    JointConfig.msg
    JointCmd.msg
+   RangeArray.msg
 )
 
 ## Generate services in the 'srv' folder
