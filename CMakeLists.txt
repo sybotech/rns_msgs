@@ -50,7 +50,6 @@ add_message_files(FILES
    Waypoint.msg
    Annotation.msg
    AnnotationUpdate.msg
-   BatteryState.msg
    MapCell.msg
    MapContents.msg
    MapInfo.msg
