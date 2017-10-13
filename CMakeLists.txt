@@ -66,7 +66,7 @@ add_message_files(FILES
 add_service_files(FILES
    AnnotationModify.srv
    AnnotationRequest.srv
-   Control.srv
+   NodeControl.srv
    GetMapContents.srv
    GetTransform.srv
    SetMap.srv
